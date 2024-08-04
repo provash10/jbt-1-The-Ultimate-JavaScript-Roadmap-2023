@@ -1,0 +1,45 @@
+javascript bangla tutorial 1  The Ultimate JavaScript Roadmap 2023
+
+1. Introduction to js
+==> what is js? how to add js?
+==> print, Comments, environment setup(eslint,printer)
+
+2. Tokens
+==> Keywords, puncuators, escape sequences
+==> data types, variables
+==> Operators 
+
+3. Control Statement
+==> Conditional Control Statement: if, else, switch
+==> Loop Control Statement: for, while, do while 
+==> Jump Control Statement: break, continue
+
+4. Function, Object
+==> function declaration, parameters, Return 
+==> module
+==> Object declare, access, method in object, constructor
+==> array types, access
+
+5. Methods
+Array, Number, String, Date, Math Object Methods.
+
+6. Exception Handling
+==try, catch, finally error types, best practices.
+
+7. DOM & BOM
+==> Selecting, Changing, Creating and deleting HTML elements
+==> Events: Mouse events, keyboard events, Focus events etc.
+==> Project + Image slideshow, calculator, guessing game, quiz
+==> CRUD-todo app 
+
+8. ES6 & API
+==> Let vs CONST, Template Literals, Default  Parameter, Rest Parameter,
+Spreed Operaror, Distructure, Object Literals, For Of and For Introduction
+==> Arrow Function, Restructuring, Operaror.
+==> Synchronous VS Asynchronous: Call Back, Higher Order functions,
+     Promise, Asyne, Await.
+==> JSON
+==> Fetch API, Axios, Ajax
+==> Local storage
+9. Projects 
+
